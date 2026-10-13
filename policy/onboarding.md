@@ -46,9 +46,9 @@ Especially:
 
   [1]: https://research.cuanschutz.edu/docs/librariesprovider148/orcs_documents/personnel-qualifications-form.docx?sfvrsn=da3250bb_2
   [2]: https://research.cuanschutz.edu/docs/librariesprovider174/forms/annual-renewal-occupational-health-form.pdf?sfvrsn=8deb5cb9_2
-  [3]: https://osf.io/szch3/wiki/Code%20Management%20Practices/
-  [4]: https://osf.io/szch3/wiki/Data%20Management/
+  [3]: code-management.md
+  [4]: data-management.md
   [5]: https://github.com/denmanlab/lab-handbook/blob/main/files/IDP_template.docx
   [6]:https://elabftw.denmanlab.org/login.php
-  [7]: https://osf.io/szch3/wiki/Code%20of%20Conduct/
-  [8]:https://osf.io/szch3/wiki/Expectations/
+  [7]: code-of-conduct.md
+  [8]: expectations.md
