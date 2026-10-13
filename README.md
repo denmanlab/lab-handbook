@@ -42,15 +42,6 @@ record lives elsewhere, deliberately:
 | Protocols, SOPs, experiment records, lab notebooks | eLabFTW |
 | Project tracking — who is doing what, by when | Slack |
 | Code and analysis | GitHub repositories |
-| Personnel records, evaluations, grant drafts | Not on a shared platform |
-
-The rule that keeps this workable: **a document belongs to exactly one of those homes.**
-The lab's previous single-platform arrangement is what made this migration necessary.
-
-## Changing a page here
-
-Policy changes go through a pull request so they are reviewed and the history is
-readable. See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Provenance
 
