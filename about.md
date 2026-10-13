@@ -12,4 +12,4 @@ For general lab info, choose [Wiki][1] above or wiki sections in the left sideba
 <br>For science-related project info, expand the Components Wiki pages on the left <---
 
 
-  [1]: https://osf.io/szch3/wiki
+  [1]: README.md
