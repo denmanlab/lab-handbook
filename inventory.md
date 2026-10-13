@@ -2,8 +2,8 @@
 
 # Inventory
 
-Lab inventory is managed with [Quartzy][1]. Ask Dan for an invite to the Denman Lab on Quartzy. 
+Lab inventory is managed with [elab][1].
 
-The colony is managed via a private spreadsheet. Ask Dan for access. 
+The colony is managed via [elab][1] as well (search MouseLog)
 
-  [1]: http://www.quartzy.com
+  [1]: elabftw.denmanlab.org/login.php
