@@ -30,4 +30,4 @@ Development towards independence requires multiple phases (not always linear, no
 see [Expectations][1] page
 
 
-  [1]: https://osf.io/szch3/wiki/Expectations/
+  [1]: expectations.md
