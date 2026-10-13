@@ -180,4 +180,4 @@ The workflow consists of two parts:
   [15]: https://github.com/MouseLand/Kilosort2
   [16]: https://github.com/cortex-lab/phy
   [17]: http://rogerdudler.github.io/git-guide/
-  [18]: http://%20https://github.com/matplotlib/cheatsheets
+  [18]: https://github.com/matplotlib/cheatsheets
