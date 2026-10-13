@@ -6,4 +6,4 @@ Lab inventory is managed with [elab][1].
 
 The colony is managed via [elab][1] as well (search MouseLog)
 
-  [1]: elabftw.denmanlab.org/login.php
+  [1]: https://elabftw.denmanlab.org/login.php
