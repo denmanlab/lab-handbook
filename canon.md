@@ -43,7 +43,7 @@ Population Coding / Dynamics
 
 Temporal Coding
 
-16. [Thorpe et al., 1996](https://www.ncbi.nlm.nih.gov/pubmed/8632824), with [Thorpe et al 2001]((https://www.ncbi.nlm.nih.gov/pubmed/11665765))
+16. [Thorpe et al., 1996](https://www.ncbi.nlm.nih.gov/pubmed/8632824), with [Thorpe et al 2001](https://www.ncbi.nlm.nih.gov/pubmed/11665765)
 7. [Gollisch and Meister, 2008](https://www.ncbi.nlm.nih.gov/pubmed/18292344)
 8. [Dan et al., 1996](https://www.ncbi.nlm.nih.gov/pubmed/10196548)
 7. [Resulaj et al, 2018](https://www.ncbi.nlm.nih.gov/pubmed/29659352)
