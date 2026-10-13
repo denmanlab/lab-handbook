@@ -10,7 +10,7 @@ Dan's office: 7103, Research Complex 1 North
 Vivarium: 415; HRR: 201B, 201C
 
 For general lab info, choose Wiki sections in the below tables
-For science-related project info, expand find Project resources on the Denman Lab [elabftw instance](elabftw.denmanlab.org/login.php).
+For science-related project info, expand find Project resources on the Denman Lab [elabftw instance](https://elabftw.denmanlab.org/login.php).
 
 ## Policy
 
