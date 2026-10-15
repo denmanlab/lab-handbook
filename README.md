@@ -1,4 +1,4 @@
-# Denman Lab Handbook
+# [Denman Lab](denmanlab.github.io) Handbook
 
 Lab policy, expectations, and computing conventions. Migrated from the lab's OSF
 project (`osf.io/szch3`) in October 2026.
